@@ -1,4 +1,4 @@
-package com.peng;
+package com.sell;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
